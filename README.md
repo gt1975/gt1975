@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gt1975
 - 👀 I’m interested in PROJECT MANAGEMENT, AI&ML, K8s, DOCKERS, CONTAINERS, SDM AND DEVOPS Manager Roles. 
-- 🌱 I’m currently learning DOCKERS, CONTAINERS, K8s AND DEVOPS
-- 💞️ I’m looking to collaborate on PROJECT MANAGEMENT AND INFRASTRUCTURE MANAGEMENT.
+- 🌱 I’m looking to collaborate on PROJECT MANAGEMENT AND INFRASTRUCTURE MANAGEMENT.
 - 📫 How to reach me +91 831 752 9608 or ganga.trend@gmail.com
 
 <!---
