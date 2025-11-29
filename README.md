@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gt1975
-- 👀 PROJECT MANAGEMENT, AI&ML, K8s, DOCKERS, CONTAINERS, TPO AND DEVOPS Manager Roles. 
-- 🌱 I’m looking to collaborate on Project Management AND Infrastructure Management.
+- 👀 Project Management, AI & ML, K8s, Dockers, Containers, TPO & DevOps Manager Roles. 
+- 🌱 I’m looking to collaborate on Project Management & Infrastructure Management.
 - 📫 How to reach me +91 831 752 9608 or ganga.trend@gmail.com
 
 <!---
